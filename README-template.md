@@ -8,7 +8,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [Mobile First ](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -60,7 +60,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+From this projects, I started by mobile design first. I used Grid-box for design.
 
 To see how you can add code snippets, see below:
 
