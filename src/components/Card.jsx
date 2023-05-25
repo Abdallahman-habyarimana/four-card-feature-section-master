@@ -6,7 +6,7 @@ const Card = ({ card }) => {
     <div className="card">
         <h5>{card.title}</h5>
         <p>{card.description}</p>
-        <img src="assets/images/icon-karma.svg" alt=""/>
+        <img src={card.img} alt={card.title} />
     </div>
 
   )
